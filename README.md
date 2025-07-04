@@ -1,6 +1,6 @@
 # Hi 👋, I'm Krushna Chavan
 
-🚀 Front-end Developer | Exploring Full-Stack | Focused on Clean, User-Friendly Web Apps
+🌐 Front-end Developer | 💻 Exploring Full-Stack | Focused on Clean, User-Friendly Web Apps
 
 [📧 Email](mailto:krushnachavan439@gmail.com) • [🌐 GitHub](https://github.com/krushnachavan11)
 
